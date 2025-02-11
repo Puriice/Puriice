@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate software developer from Thailand.</h3>
 
 <h2>
-	<img src="./img/Aboutme.png" />
+	<img src="./img/Aboutme.png" width="100%"/>
 </h2>
 <p>
 	Hi, I'm a 3rd year computer science at Srinakharinwirot University. I'm passionate with gaming and coding ❤️. Loves to learn how things work behind-the-scence. Currently learning <b>C, Complier Stuff, and OS Development</b>
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!-- Interesting -->
 <br>
 <h2>
-	<img src="./img/Interesting.png" />
+	<img src="./img/Interesting.png" width="100%"/>
 </h2>
 <p align="left">
 	<ul>
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <!-- Languages and tools -->
 <br>
 <h2 align="left">
-	<img src="./img/Languages and tools.png" />
+	<img src="./img/Languages and tools.png" width="100%"/>
 </h2>
 <p align="center"> 
 	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -92,13 +92,13 @@ Here are some ideas to get you started:
 </p>
 <br>
 <h2>
-	<img src="./img/Stats.png"/>
+	<img src="./img/Stats.png" width="100%">
 </h2>
 <!-- Stats -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=puriice&show_icons=true&theme=dracula&locale=en&layout=compact" alt="puriice" />&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=puriice&show_icons=true&theme=dracula&locale=en" alt="puriice" />
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=puriice&show_icons=true&title_color=dd6487&text_color=ffffff&bg_color=000000&hide_border=true&locale=en" alt="puriice github stat image" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=puriice&show_icons=true&title_color=dd6487&text_color=ffffff&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="puriice most used lanugage stat image" height="200"/>
+</div>
 <br>
 <br>
-<img src="./img/thankyou.png"/>
+<img src="./img/thankyou.png" width="100%"/>
