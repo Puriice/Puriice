@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Ice, Purinutt.</h1>
+<h1 align="center">&lt;👋 Hi, I'm Ice.&gt;</h1>
 <h3 align="center">A passionate software developer from Thailand.</h3>
 
 <!-- -   🔭 I’m currently working on [pulang](https://github.com/Puriice/pulang)
