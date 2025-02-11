@@ -18,15 +18,11 @@ Here are some ideas to get you started:
 <h1 align="center">&lt;👋 Hi, I'm Ice.&gt;</h1>
 <h3 align="center">A passionate software developer from Thailand.</h3>
 
-<!-- -   🔭 I’m currently working on [pulang](https://github.com/Puriice/pulang)
-
--   🌱 I’m currently learning **C, Complier Stuff, OS Development** -->
-
 <h2>
 	<img src="./img/Aboutme.png" />
 </h2>
 <p>
-	Hi, I'm a 3rd year computer science at Srinakharinwirot University. I'm passionate with gaming and coding ❤️. Loves to learn how things work behind-the-scence.
+	Hi, I'm a 3rd year computer science at Srinakharinwirot University. I'm passionate with gaming and coding ❤️. Loves to learn how things work behind-the-scence. Currently learning <b>C, Complier Stuff, and OS Development</b>
 </p>
 <!-- Interesting -->
 <br>
