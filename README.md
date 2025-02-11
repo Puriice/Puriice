@@ -96,8 +96,8 @@ Here are some ideas to get you started:
 </h2>
 <!-- Stats -->
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=puriice&show_icons=true&title_color=dd6487&text_color=ffffff&bg_color=000000&hide_border=true&locale=en" alt="puriice github stat image" height="200"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=puriice&show_icons=true&title_color=dd6487&text_color=ffffff&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="puriice most used lanugage stat image" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=puriice&show_icons=true&title_color=dd6487&text_color=ffffff&bg_color=000000&hide_border=true&locale=en" alt="puriice github stat image" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=puriice&show_icons=true&title_color=dd6487&text_color=ffffff&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="puriice most used lanugage stat image" height="180"/>
 </div>
 <br>
 <br>
