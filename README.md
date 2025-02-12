@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate software developer from Thailand.</h3>
 
 <h2>
-	<img src="./img/Aboutme.png" width="100%"/>
+	<img src="./img/Aboutme.png" width="100%" alt="What to know about me"/>
 </h2>
 <p>
 	Hi, I'm a 3rd year computer science at Srinakharinwirot University. I'm passionate with gaming and coding ❤️. Loves to learn how things work behind-the-scence. Currently learning <b>C, Complier Stuff, and OS Development</b>
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!-- Interesting -->
 <br>
 <h2>
-	<img src="./img/Interesting.png" width="100%"/>
+	<img src="./img/Interesting.png" width="100%" alt="What I am interesting about"/>
 </h2>
 <p align="left">
 	<ul>
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <!-- Languages and tools -->
 <br>
 <h2 align="left">
-	<img src="./img/Languages and tools.png" width="100%"/>
+	<img src="./img/Languages and tools.png" width="100%" alt="languages and tools I use"/>
 </h2>
 <p align="center"> 
 	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 </p>
 <br>
 <h2>
-	<img src="./img/Stats.png" width="100%">
+	<img src="./img/Stats.png" width="100%" alt="My stats">
 </h2>
 <!-- Stats -->
 <div align="center">
@@ -101,4 +101,4 @@ Here are some ideas to get you started:
 </div>
 <br>
 <br>
-<img src="./img/thankyou.png" width="100%"/>
+<img src="./img/thankyou.png" width="100%" alt="Thank you for visiting. Feel free to explore my respository."/>
