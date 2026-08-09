@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 	<img src="./img/Aboutme.png" width="100%" alt="What to know about me"/>
 </h2>
 <p>
-	Hi, I'm a 3rd year computer science at Srinakharinwirot University. I'm passionate with gaming and coding ❤️. Loves to learn how things work behind-the-scence. Currently learning <b>C, Complier Stuff, and OS Development</b>
+	Hi, I'm a fresh graduated computer science from Srinakharinwirot University. I'm passionate with gaming and coding ❤️. Loves to learn how things work behind-the-scence. Currently learning <b>C, Complier Stuff, and OS Development</b>
 </p>
 <!-- Interesting -->
 <br>
